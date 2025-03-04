@@ -71,7 +71,7 @@ void loop() {
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/SelfBalancing-Bot-ESP32.git
+   git clone https://github.com/achyuth-2308/EquiBot-Self-Balancing-Bot.git
    ```
 2. Open the code in **Arduino IDE** or **PlatformIO**.
 3. Install the required libraries:
