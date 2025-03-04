@@ -46,7 +46,7 @@ A self-balancing bot using **ESP32**, **MPU6050**, **L293D Motor Driver** and a 
 The **PID (Proportional-Integral-Derivative) controller** ensures smooth and stable balancing by adjusting motor speed based on tilt error.
 
 ```cpp
-float Kp = 15.0, Ki = 0.2, Kd = 1.5;
+float Kp = 35.0, Ki = 0.1, Kd = 1.0;
 float error, previousError, integral, derivative;
 
 void loop() {
