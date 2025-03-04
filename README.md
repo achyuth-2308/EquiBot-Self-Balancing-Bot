@@ -1,7 +1,7 @@
 ## EquiBot: Self-Balancing-Bot
 # Self-Balancing Bot 🚀
 
-A self-balancing bot using **ESP32**, **MPU6050**, and a **PID controller** to maintain dynamic stability. This project implements an **inverted pendulum model** to keep the bot upright.
+A self-balancing bot using **ESP32**, **MPU6050**, **L293D Motor Driver** and a **PID controller** to maintain dynamic stability. This project implements an **inverted pendulum model** to keep the bot upright.
 
 ---
 
@@ -89,7 +89,7 @@ void loop() {
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributions
 Feel free to fork, enhance, and create pull requests! Contributions are always welcome.
 
 ---
@@ -100,4 +100,4 @@ This project is **open-source** under the MIT License.
 ---
 
 ### 📧 Contact
-For any queries, reach out to me on **[LinkedIn](https://www.linkedin.com/in/yourprofile)** or via email at **your.email@example.com**.
+For any queries, reach out to me on **[LinkedIn](https://www.linkedin.com/in/achyuth-mukund)** or via email at **achyuth2004@gmail.com**.
