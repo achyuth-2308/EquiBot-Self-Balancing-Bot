@@ -17,8 +17,8 @@ A self-balancing bot using **ESP32**, **MPU6050**, **L293D Motor Driver** and a 
 
 | Component      | Description |
 |---------------|------------|
-| **ESP32**     | Microcontroller for processing sensor data |
-| **MPU6050**   | 6-axis motion sensor (accelerometer + gyroscope) |
+| **ESP32**     | Microcontroller for processing Sensor Data |
+| **MPU6050**   | 6-axis Motion Sensor (Accelerometer + Gyroscope) |
 | **Motor Driver** | Controls the direction and speed of motors |
 | **DC Motors** | Provides motion and balance adjustments |
 | **Battery**   | Power source for ESP32, motors, and sensors |
