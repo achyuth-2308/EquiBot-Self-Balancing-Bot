@@ -100,3 +100,5 @@ This project is **open-source** under the MIT License.
 
 ### 📧 Contact
 For any queries, reach out to me on **[LinkedIn](https://www.linkedin.com/in/achyuth-mukund)** or via email at **achyuth2004@gmail.com**.
+
+Made with ❤️ by Achyuth Mukund and Haneef Ahmad
